@@ -1,0 +1,9 @@
+{
+  "name": "socket-demo",
+  "version": "1.0.0",
+  "description": "my socker demo",
+  "dependencies": {
+    "express": "^4.16.3",
+    "socket.io": "^2.1.1"
+  }
+}
